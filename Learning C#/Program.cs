@@ -11,6 +11,11 @@ namespace calab // namespaces are groups of classess which used for organization
            
         }
 
+        // variable - a memory that store a value
+        // identifier - name of varaible
+        //expression - is a statement that evaluated to a value
+        // literal is a defination assigned directly to the code.
+
     }
 }
 
